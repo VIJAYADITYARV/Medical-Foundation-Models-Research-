@@ -1,4 +1,4 @@
-# Quality-Gated Weak Supervision with Medical Foundation Models: An Empirical Multi-Dataset Replication and Verification Analysis
+# Replication and Quality-Gated Extension of Automated Weak Supervision for Label-Scarce Medical Image Segmentation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -96,7 +96,7 @@ If you build upon this work or utilize the evaluation protocols, please cite:
 
 ```bibtex
 @article{rv2026qualitygated,
-  title={Quality-Gated Weak Supervision with Medical Foundation Models: An Empirical Multi-Dataset Replication and Verification Analysis},
+  title={Replication and Quality-Gated Extension of Automated Weak Supervision for Label-Scarce Medical Image Segmentation},
   author={R\,V, Vijay Aditya and N, Harini and Saketh, Regella Krishna},
   journal={IEEE Journal Draft},
   year={2026},
